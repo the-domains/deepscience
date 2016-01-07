@@ -1,0 +1,14 @@
+layout_spectrum: 0.1713722
+typography_spectrum: 0.8838685
+color:
+  saturation: 0.851177
+  lightness: 0.6243033
+  brandStrength: 0.4207104
+  rhythmicContrast: 0.5386698
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: deepscience
